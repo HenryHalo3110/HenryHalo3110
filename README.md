@@ -8,9 +8,13 @@
 <p align="center">
 Hello! My name is HenryHalo and I am a passionate digital and traditional artist, working mainly with 2D art and animation.
 I’m the creator of projects such as Horror Circus, a dark and atmospheric horror-themed circus experience, and The Lights of Hell, which dives into unique infernal worlds and original characters.
+</p>
 
+<p align="center">
 Alongside art, I have a growing interest in programming, especially in the HTML side of things, where I enjoy creating and customizing visual layouts. I’m also an English student, constantly improving my skills to connect with more people around the world.
+</p>
 
+<p align="center">
 I currently have commissions open and also dedicate time to volunteer work, bringing creative ideas to life and collaborating with others. My goal is to keep evolving as an artist and storyteller, blending design, narrative, and a touch of darkness into every project I create.
 </p>
 
