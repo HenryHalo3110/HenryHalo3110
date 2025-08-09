@@ -16,8 +16,6 @@ I currently have commissions open and also dedicate time to volunteer work, brin
 
 ---
 
----
-
 <h2 align="center">🌐 Minhas Redes</h2>
 <p align="center">
   <a href="https://instagram.com/SEU_USUARIO" target="_blank">
