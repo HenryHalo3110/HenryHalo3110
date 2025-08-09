@@ -1,6 +1,6 @@
 <!-- Banner ou imagem no topo -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Hollow_Knight_Icon.png](https://f2.toyhou.se/file/f2-toyhou-se/images/101108546_43pNeXOlhUgQIJM.png" width="120" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/0/02/Hollow_Knight_Icon.png](https://f2.toyhou.se/file/f2-toyhou-se/images/101108546_43pNeXOlhUgQIJM.png](https://f2.toyhou.se/file/f2-toyhou-se/images/80203018_OfueflQsHXa4WFy.png)" width="120" />
 </p>
 
 <h1 align="center"><b>HENRYHALO</b></h1>
