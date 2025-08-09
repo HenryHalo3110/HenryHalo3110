@@ -1,15 +1,17 @@
 <!-- Banner ou imagem no topo -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Hollow_Knight_Icon.png" width="120" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/0/02/Hollow_Knight_Icon.png](https://f2.toyhou.se/file/f2-toyhou-se/images/101108546_43pNeXOlhUgQIJM.png)" width="120" />
 </p>
 
-<h1 align="center"><b>Quem Sou Eu?</b></h1>
+<h1 align="center"><b>HENRYHALO</b></h1>
 
 <p align="center">
-Sou estudante de <b>Desenvolvimento</b> apaixonado por tecnologia, design e criatividade.  
-Minha jornada começou cedo, criando pequenos projetos e explorando jogos 2D e 3D.  
-Atualmente, me dedico ao <b>Desenvolvimento Web Fullstack</b>, sempre buscando unir lógica e estética visual.  
-Adoro aprender coisas novas e enfrentar desafios que me tiram da zona de conforto.
+Hello! My name is HenryHalo and I am a passionate digital and traditional artist, working mainly with 2D art and animation.
+I’m the creator of projects such as Horror Circus, a dark and atmospheric horror-themed circus experience, and The Lights of Hell, which dives into unique infernal worlds and original characters.
+
+Alongside art, I have a growing interest in programming, especially in the HTML side of things, where I enjoy creating and customizing visual layouts. I’m also an English student, constantly improving my skills to connect with more people around the world.
+
+I currently have commissions open and also dedicate time to volunteer work, bringing creative ideas to life and collaborating with others. My goal is to keep evolving as an artist and storyteller, blending design, narrative, and a touch of darkness into every project I create.
 </p>
 
 ---
