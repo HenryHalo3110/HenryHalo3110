@@ -47,5 +47,5 @@ I currently have commissions open and also dedicate time to volunteer work, brin
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/w1Q8eS4.png" width="120" />
+  <img src="[https://i.imgur.com/w1Q8eS4.png](https://i.pinimg.com/originals/9e/09/6c/9e096c27abf9890d2d81c01cbaf8a355.gif)" width="120" />
 </p>
