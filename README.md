@@ -23,16 +23,16 @@ I currently have commissions open and also dedicate time to volunteer work, brin
 <h2 align="center">★ MY SOCIAL MEDIA ★</h2>
 <p align="center">
   <a href="https://www.instagram.com/henry_.halo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=000000&labelColor=000000" />
   </a>
   <a href="https://t.me/henryhaloarts" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=white&color=000000&labelColor=000000" />
   </a>
   <a href="https://ko-fi.com/henryhalo" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-%23FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ko--fi-%23000000.svg?style=for-the-badge&logo=ko-fi&logoColor=white&color=000000&labelColor=000000" />
   </a>
   <a href="https://trello.com/b/H16VAYGp/meu-quadro-do-trello" target="_blank">
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trello-%23000000.svg?style=for-the-badge&logo=trello&logoColor=white&color=000000&labelColor=000000" />
   </a>
 </p>
 
