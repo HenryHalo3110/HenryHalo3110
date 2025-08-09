@@ -16,16 +16,6 @@ I currently have commissions open and also dedicate time to volunteer work, brin
 
 ---
 
-<h1 align="center"><b>Um Pouco Mais Sobre Mim</b></h1>
-
-<ul>
-<li>💬 Gosto de conversar e trocar experiências com pessoas mais experientes para crescer.</li>
-<li>💻 Atualmente trabalhando em projetos com React e Node.js.</li>
-<li>🤝 Sempre disposto a ajudar em projetos Front-End e colaborar em equipes.</li>
-<li>🎯 Tenho interesse em grandes projetos que causem impacto.</li>
-<li>✨ Apaixonado por minimalismo e design limpo.</li>
-</ul>
-
 ---
 
 <h2 align="center">🌐 Minhas Redes</h2>
